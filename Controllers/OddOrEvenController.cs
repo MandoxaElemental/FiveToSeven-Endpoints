@@ -17,7 +17,7 @@ namespace OddOrEven.Controllers
         }
         [HttpPost]
         [Route("evenOrOdd/{num}")]
-        public List<string> EvenOrOdd(int num){
+        public List<string> EvenOrOdd(string num){
         return _oddOrEvenServices.EvenOrOdd(num);
         }
     }

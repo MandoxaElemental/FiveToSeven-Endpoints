@@ -6,8 +6,18 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace FiveToSeven_Endpoints.Services
 {
-    public class ReverseItAlphanumericServices
+    public class ReverseItAlphanumericServices : ControllerBase
     {
-        
+        public List<string> reversedWord = new();
+        string emptyWord = string.Empty;
+        public List<string> ReversedWord(string userInput)
+        {
+            for (int i = userInput.Length; i >= 0; i--)
+            {
+                emptyWord += userInput[i];
+            }
+            reversedWord.Add(emptyWord);
+            return reversedWord;
+        }
     }
 }
