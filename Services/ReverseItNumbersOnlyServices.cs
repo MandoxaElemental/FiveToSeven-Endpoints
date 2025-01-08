@@ -14,7 +14,10 @@ namespace FiveToSeven_Endpoints.Services
         string emptyNum = string.Empty;
         public List<string> ReversedNum(string userInput){
              validCheck = int.TryParse(userInput, out convertedNum);
-            if(validCheck == false){
+            if (userInput.Length > 10){
+                reversedNum.Add("Maximum amount of numbers exceeded; Please input only 10 numbers or less;");
+                return reversedNum;
+            } else if(validCheck == false){
                 reversedNum.Add("Enter Only Numbers Please");
                 return reversedNum;
             }
