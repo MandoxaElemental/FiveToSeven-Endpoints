@@ -1,4 +1,5 @@
 using FiveToSeven_Endpoints.Services;
+using OddOrEven.Controllers;
 
 var builder = WebApplication.CreateBuilder(args);
 
