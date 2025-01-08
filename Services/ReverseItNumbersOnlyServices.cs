@@ -23,7 +23,7 @@ namespace FiveToSeven_Endpoints.Services
                 emptyNum += userInput[i];
             }
             }
-            reversedNum.Add($"Input = {userInput}... Output = {emptyNum} Have a nice day");
+            reversedNum.Add($"Input = {userInput}... Output = {emptyNum}; Have a nice day");
             return reversedNum;
         }
     }
