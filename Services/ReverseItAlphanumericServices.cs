@@ -14,7 +14,7 @@ namespace FiveToSeven_Endpoints.Services
             for(int i=userInput.Length-1; i >= 0; i--){
                 emptyWord += userInput[i];
             }
-            reversedWord.Add(emptyWord);
+            reversedWord.Add($"Input = {userInput}... Output = {emptyWord} Have a nice day");
             return reversedWord;
         }
     }

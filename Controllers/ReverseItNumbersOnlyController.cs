@@ -8,9 +8,17 @@ using FiveToSeven_Endpoints.Services;
 namespace FiveToSeven_Endpoints.Controllers
 {
     [ApiController]
-    [Route("api/[controller]")]
-    public class ReverseItNumbersOnlyController : ControllerBase
+    [Route("[controller]")]
+    public class ReverseItNumbersOnly : ControllerBase
     {
-        
+        private readonly ReverseItNumbersOnlyServices _reverseItNumbersOnlyServices;
+        public ReverseItNumbersOnly(ReverseItNumbersOnlyServices reverseItNumbersOnlyServices){
+            _reverseItNumbersOnlyServices = reverseItNumbersOnlyServices;
+        }
+        [HttpPost]
+        [Route("reversedNum/{userInput}")]
+         public List<string> ReversedNum(string userInput){
+            return _reverseItNumbersOnlyServices.ReversedNum(userInput);
+         }
     }
 }
