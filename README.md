@@ -32,5 +32,5 @@ Validation is required.
 ### FiveToSeven - Endpoints_GitHub Repository Link:
 [FiveToSeven - Endpoints GitHub Repository Link]()
 
-This has been Peer Reviewed By: 
-> Comments: 
+This has been Peer Reviewed By: Chris Wells-Hott 
+> Comments: Everything Work Wells Good Work GP.
