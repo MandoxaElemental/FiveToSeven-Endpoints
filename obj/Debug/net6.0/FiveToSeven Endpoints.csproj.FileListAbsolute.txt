@@ -1,0 +1,27 @@
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/FiveToSeven Endpoints/bin/Debug/net6.0/appsettings.Development.json
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/FiveToSeven Endpoints/bin/Debug/net6.0/appsettings.json
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/FiveToSeven Endpoints/bin/Debug/net6.0/FiveToSeven Endpoints
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/FiveToSeven Endpoints/bin/Debug/net6.0/FiveToSeven Endpoints.deps.json
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/FiveToSeven Endpoints/bin/Debug/net6.0/FiveToSeven Endpoints.runtimeconfig.json
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/FiveToSeven Endpoints/bin/Debug/net6.0/FiveToSeven Endpoints.dll
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/FiveToSeven Endpoints/bin/Debug/net6.0/FiveToSeven Endpoints.pdb
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/FiveToSeven Endpoints/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/FiveToSeven Endpoints/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/FiveToSeven Endpoints/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/FiveToSeven Endpoints/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/FiveToSeven Endpoints/obj/Debug/net6.0/FiveToSeven Endpoints.csproj.AssemblyReference.cache
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/FiveToSeven Endpoints/obj/Debug/net6.0/FiveToSeven Endpoints.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/FiveToSeven Endpoints/obj/Debug/net6.0/FiveToSeven Endpoints.AssemblyInfoInputs.cache
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/FiveToSeven Endpoints/obj/Debug/net6.0/FiveToSeven Endpoints.AssemblyInfo.cs
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/FiveToSeven Endpoints/obj/Debug/net6.0/FiveToSeven Endpoints.csproj.CoreCompileInputs.cache
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/FiveToSeven Endpoints/obj/Debug/net6.0/FiveToSeven Endpoints.MvcApplicationPartsAssemblyInfo.cs
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/FiveToSeven Endpoints/obj/Debug/net6.0/FiveToSeven Endpoints.MvcApplicationPartsAssemblyInfo.cache
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/FiveToSeven Endpoints/obj/Debug/net6.0/staticwebassets.build.json
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/FiveToSeven Endpoints/obj/Debug/net6.0/staticwebassets.development.json
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/FiveToSeven Endpoints/obj/Debug/net6.0/scopedcss/bundle/FiveToSeven Endpoints.styles.css
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/FiveToSeven Endpoints/obj/Debug/net6.0/FiveToSeven Endpoints.csproj.CopyComplete
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/FiveToSeven Endpoints/obj/Debug/net6.0/FiveToSeven Endpoints.dll
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/FiveToSeven Endpoints/obj/Debug/net6.0/refint/FiveToSeven Endpoints.dll
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/FiveToSeven Endpoints/obj/Debug/net6.0/FiveToSeven Endpoints.pdb
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/FiveToSeven Endpoints/obj/Debug/net6.0/FiveToSeven Endpoints.genruntimeconfig.cache
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/FiveToSeven Endpoints/obj/Debug/net6.0/ref/FiveToSeven Endpoints.dll
