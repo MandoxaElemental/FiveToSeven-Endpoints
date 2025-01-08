@@ -30,7 +30,7 @@ Validation is required.
 > Notes: dotnet new webapi & dotnet watch run <- Important; Copy for every project for now on
 
 ### FiveToSeven - Endpoints_GitHub Repository Link:
-[FiveToSeven - Endpoints GitHub Repository Link]()
+[FiveToSeven - Endpoints GitHub Repository Link](https://github.com/MandoxaElemental/FiveToSeven-Endpoints.git)
 
 This has been Peer Reviewed By: Chris Wells-Hott 
 > Comments: Everything Work Wells Good Work GP.
